@@ -2,3 +2,4 @@
 django-coverage-plugin==1.5.0
 django-autoslug==1.9.3
 
+django>=2.2.18 # not directly required, pinned by Snyk to avoid a vulnerability
